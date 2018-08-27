@@ -1,2 +1,2 @@
-# jadwal_pelajaran
-My first app for school project
+# Jadwal Pelajaran App Android
+Buat sekolahan sih, project habis magang , copas codingan gapapa silahkan
